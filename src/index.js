@@ -135,4 +135,5 @@ function google_Images(search) {
   })();
 }
 
+//put in the parameter what you want to search
 google_Images("leopard");
